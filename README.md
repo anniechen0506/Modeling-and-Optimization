@@ -2,4 +2,23 @@
 Repo for GB730 Modeling and Optimization at UW-Madison
 
 * Modeling Fundamentals
-* Optimization
+  - [Office Building Example]((https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Office_Building.ipynb))
+  - [Advertisement Budget Model Example](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/AdBudget.ipynb)
+  - [Function Model](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Function_Model.ipynb)
+  - [Model as Profit Function](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Model_as_Profit_Function.ipynb)
+
+* Optimization - using 'Pyomo'
+  - [Pyomo](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Pyomo.ipynb)
+  - [Optimization with Large Size](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Optimize_Pyomo_in_LargeSize_.ipynb)
+  - [Optimization with For Loop](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Optimization_with_for_Loop.ipynb)
+  - [Capital Budget](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Capital_Budget.ipynb)
+  - [Linear Program Optimization](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Linear_Program_Optimization.ipynb)
+  - [Mixed Integer Program Optimization](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Mixed_Integer_Program.ipynb)
+  - [Scheduling Optimization](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Scheduling.ipynb)
+
+* Optimization - using 'Scipy'
+  - [Scipy Optimization](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Scipy_optimization.ipynb)
+
+* Optimization - using 'Google OR Tools'
+  - [Google OR Tools](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Google_OR_tools.ipynb)
+  
