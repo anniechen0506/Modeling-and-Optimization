@@ -1,8 +1,15 @@
 # Modeling-and-Optimization-Fall-2023
 Repo for GB730 Modeling and Optimization at UW-Madison
 
+* My Project: Strategic Stock Portfolio Optimization Model
+  - Objective: Optimize investment return rate within the companies of S&P 500 while maintaining a balance in investment risk.
+  - Input Data: Historical stock daily close prices data for S&P 500 companies from Yahoo Finance (Timeframe: 2018/12/12 - 2023/12/12, total 5 years)
+  - My Sample Model using "Solver" in Excel : [Stock_Portfolio_Sample.xlsx](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/MO-Final.xlsx)
+  - Full Model using "Pyomo" in Python: [Project_Strategic_Stock_Portfolio_Analysis_Annie_Chen.ipynb](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Project_Strategic_Stock_Portfolio_Analysis_Annie_Chen.ipynb)
+
+
 * Modeling Fundamentals
-  - [Office Building Example]((https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Office_Building.ipynb))
+  - [Office Building Example](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Office_Building.ipynb)
   - [Advertisement Budget Model Example](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/AdBudget.ipynb)
   - [Function Model](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Function_Model.ipynb)
   - [Model as Profit Function](https://github.com/anniechen0506/Modeling-and-Optimization-Fall-2023/blob/main/Model_as_Profit_Function.ipynb)
